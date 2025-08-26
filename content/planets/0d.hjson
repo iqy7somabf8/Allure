@@ -5,7 +5,7 @@ camRadius: 1
 orbitRadius: 25
 orbitOffset: 210
 hasAtmosphere: false
-accessible: false
+accessible: true
 mesh: [
   {
     type: SunMesh 
