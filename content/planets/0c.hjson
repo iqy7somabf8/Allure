@@ -2,4 +2,4 @@ radius: 0.2
 parent: 0a
 orbitRadius: 9
 orbitOffset: 120
-accessible: false
+accessible: true
