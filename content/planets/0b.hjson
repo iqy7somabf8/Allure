@@ -1,7 +1,7 @@
 radius: 7
 parent: 0a
 orbitRadius: 9
-accessible: false
+accessible: true
 mesh: {
   type: SunMesh 
   divisions: 7
