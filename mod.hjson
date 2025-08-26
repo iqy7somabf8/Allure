@@ -1,6 +1,6 @@
-name: allure
-displayName: Allure
-author: Elixias Adrys
+name: test
+displayName: Test
+author: Bbefbaufb
 description:
   '''
   WARNING: Not supported on low-end devices.
@@ -19,4 +19,4 @@ description:
   THIS UPDATE IS STILL IN EARLY DEV - PLEASE DON'T MAKE BUG REPORTS
   '''
 version: 0.8-dev
-minGameVersion: 147
+minGameVersion: 151
