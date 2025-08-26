@@ -1,4 +1,4 @@
-accessible: false
+accessible: true
 localizedName: "Verden-Calsiope"
 camRadius: 25
 minZoom: 0.02
